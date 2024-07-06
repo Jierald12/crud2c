@@ -1,0 +1,26 @@
+.item-list {
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 5px;
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+.item-list h1 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.item-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.item-list li {
+    background-color: #fff;
+    margin: 8px 0;
+    padding: 8px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+}
